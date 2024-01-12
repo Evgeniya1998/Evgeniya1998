@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif"/>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -39,11 +39,29 @@
  <img src="https://camo.githubusercontent.com/e0aa4b3bb9af7d3610dd65656751f3940ef645e1e3e5ff727abecec2accfb31b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465"title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
 </div>
 
-### Хочу поделиться с Вами моими работами
+### **Хочу поделиться с Вами моими работами**
+- [Командный проект по Java](https://github.com/Grdp6086/JavaQaTeamDiplomVishnyakovVolkova/tree/main)
+> Java
+>> [Наследование и расширяемость систем. Проблемы наследования Java](https://github.com/Evgeniya1998/dz12-1/tree/main/src)
+>> [Композиция и зависимость объектов. Mockito при создании авто-тестов Java](https://github.com/Evgeniya1998/dr11-1)
+>> [Объекты с внутренним состоянием, управление состоянием при тестировании](https://github.com/Evgeniya1998/dr10-1new)
+>> [Объектно-ориентированное программирование и проектирование](https://github.com/Evgeniya1998/dr9-1)
+>> 
+> Автоматизированное тестирование Java
+>> [Тестирование API, Continuous Integration](https://github.com/Evgeniya1998/rest3-1/tree/main)
+>> [Тестирование веб-интерфейсов, Selenium](https://github.com/Evgeniya1998/newdz)
+>> [Selenide](https://github.com/Evgeniya1998/selenidea)
+>> [Patterns](https://github.com/Evgeniya1998/patterndz)
+>> [Behaviour Driven Development](https://github.com/Evgeniya1998/pageObject)
+>> [Docker и Docker Compose](https://github.com/Evgeniya1998/docker1/tree/main)
+>>
+> [Java Script](https://github.com/Evgeniya1998/bjs-2-homeworks)
 
-
-
-
+> Автоматизация тестирования веб-интерфейсов Java Script
+>> [Playwright](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.3/playwright/e2e/UserTest.spec.js)
+>> [Jest](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.3/jest/test/unit/sortByName.test.js)
+>> [Puppeeter](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.5/puppeteer-2/cinema.test.js)
+>> 
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Evgeniya1998&show_icons=true&count_private=true">
