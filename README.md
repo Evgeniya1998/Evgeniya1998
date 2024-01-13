@@ -62,6 +62,7 @@
 >> [Jest](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.3/jest/test/unit/sortByName.test.js)
 >> [Puppeeter](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.5/puppeteer-2/cinema.test.js)
 >> 
+## Сертификаты 
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Evgeniya1998&show_icons=true&count_private=true">
