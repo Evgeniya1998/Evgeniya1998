@@ -55,14 +55,15 @@
 >> [Behaviour Driven Development](https://github.com/Evgeniya1998/pageObject)
 >> [Docker и Docker Compose](https://github.com/Evgeniya1998/docker1/tree/main)
 >>
-> [Java Script](https://github.com/Evgeniya1998/bjs-2-homeworks)
+> [JavaScript](https://github.com/Evgeniya1998/bjs-2-homeworks)
 
-> Автоматизация тестирования веб-интерфейсов Java Script
+> Автоматизация тестирования веб-интерфейсов JavaScript
 >> [Playwright](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.3/playwright/e2e/UserTest.spec.js)
 >> [Jest](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.3/jest/test/unit/sortByName.test.js)
 >> [Puppeeter](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.5/puppeteer-2/cinema.test.js)
 >> 
 ## Сертификаты 
+[stepik javaScript](https://stepik.org/certificate/a458ecfd331f7166c943b3c05f9787ae1e955f69.png?language=en&resolution=low)
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Evgeniya1998&show_icons=true&count_private=true">
