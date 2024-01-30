@@ -24,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title=groovy" alt="groovy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Evgeniya1998/Evgeniya1998/assets/130440948/a3819f7a-7e10-437f-a09c-37288081c550" title=charles" alt="charles" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="/kotlin" alt="kotlin " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg"  title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
