@@ -65,7 +65,12 @@
 >> 
 ## Сертификаты 
 [stepik javaScript](https://stepik.org/certificate/a458ecfd331f7166c943b3c05f9787ae1e955f69.png?language=en&resolution=low)
-
+[Ручное тестирование веб-приложений](https://drive.google.com/file/d/1EduyW1vvQYPOvwP5lfjyeKSH9tTS5Isc/view?usp=sharing)
+[Git-система контроля версий](https://drive.google.com/file/d/1dbNUvrcy-yqxh90_2wjARFoZE5rJMKiy/view?usp=sharing)
+[Java для тестировщиков](https://drive.google.com/file/d/1sT0pEbQs-zcrMxi0V3PRiwttbVfvzhwq/view?usp=sharing)
+[Автоматизированное тестирование на Java](https://drive.google.com/file/d/1OmlndZAuGMwIWf3fH6jsjeCI5TEaN239/view?usp=sharing)
+[JavaScript](https://drive.google.com/file/d/10xBHZf5VXm_41z26LmgQ1dXvvWdVR1A1/view?usp=sharing)
+[Автоматизация тестирования веб-интерфейсов](https://drive.google.com/file/d/1sT0pEbQs-zcrMxi0V3PRiwttbVfvzhwq/view?usp=sharing)
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Evgeniya1998&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Evgeniya1998&show_icons=true&count_private=true"/></a>
