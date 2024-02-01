@@ -62,7 +62,9 @@
 >> [Playwright](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.3/playwright/e2e/UserTest.spec.js)
 >> [Jest](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.3/jest/test/unit/sortByName.test.js)
 >> [Puppeeter](https://github.com/Evgeniya1998/jsaqa-code/blob/main/7.5/puppeteer-2/cinema.test.js)
->> 
+>>
+## Резюме
+[Резюме](https://sweetcv.com/v6duqnpkv1yrp)
 ## Сертификаты 
 [stepik javaScript](https://stepik.org/certificate/a458ecfd331f7166c943b3c05f9787ae1e955f69.png?language=en&resolution=low)
 [Ручное тестирование веб-приложений](https://drive.google.com/file/d/1EduyW1vvQYPOvwP5lfjyeKSH9tTS5Isc/view?usp=sharing)
