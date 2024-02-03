@@ -38,6 +38,8 @@
   <img src="https://github.com/Evgeniya1998/Evgeniya1998/assets/130440948/54692307-418a-40ae-829c-76521c0c7198"title="Postman" alt="Postman" width="40" height="40"/>&nbsp
  <img src="https://camo.githubusercontent.com/51402352b3fd848b850d7a822be9b2e1883f40ce9f49cc718068aa883c94e00a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f437970726573732d3137323032433f7374796c653d666f722d7468652d6261646765266c6f676f3d63797072657373266c6f676f436f6c6f723d7768697465"title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
  <img src="https://camo.githubusercontent.com/e0aa4b3bb9af7d3610dd65656751f3940ef645e1e3e5ff727abecec2accfb31b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465"title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png"title="Xcode" alt=""Xcode" width="40" height="40"/>&nbsp
+  <img src="https://img.utdstc.com/icon/a72/4fd/a724fdd31aacfd851b13275a3b315cdec444704e2b0154d402e7df1e3eb7f0c1:200"title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
 </div>
 
 ### **Хочу поделиться с Вами моими работами**
