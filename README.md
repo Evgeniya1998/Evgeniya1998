@@ -76,6 +76,7 @@
 [JavaScript](https://drive.google.com/file/d/10xBHZf5VXm_41z26LmgQ1dXvvWdVR1A1/view?usp=sharing)
 [Автоматизация тестирования веб-интерфейсов](https://drive.google.com/file/d/1sT0pEbQs-zcrMxi0V3PRiwttbVfvzhwq/view?usp=sharing)
 [Ручное тестирование WB Техношкола](https://drive.google.com/file/d/1fSgCnGz7kXufRZJZNoUo0fNMaOkIzIkl/view?usp=sharing)
+[Курс по SQL](https://stepik.org/cert/2594846)
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Evgeniya1998&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Evgeniya1998&show_icons=true&count_private=true"/></a>
